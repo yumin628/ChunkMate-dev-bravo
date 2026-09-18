@@ -17,7 +17,7 @@ International students often hear natural, useful English phrases in class or co
 
 The current version dev-bravo establishes the front-end interface, including a card layout to display the chunks, a form to add new phrases, and filter controls. Future versions will store this data persistently (using localStorage or a database) and implement real search/filter functionality.
 
-## 🧪 Simple Test
+## Simple Test
 - [ ] 🧪 **TEST:** Can a user visually locate the form to add a new English phrase?
 - [ ] ✅ **PASS:** The user immediately sees the input fields for "Phrase" and "Meaning" with a clear "Save" button.
 - [ ] ❌ **FAIL:** The user cannot figure out where or how to input a newly learned phrase.
