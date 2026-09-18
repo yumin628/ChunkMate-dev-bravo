@@ -23,7 +23,7 @@ The current version dev-bravo establishes the front-end interface, including a c
 - [ ] ❌ **FAIL:** The user cannot figure out where or how to input a newly learned phrase.
 
 ## Technology Stack
-`HTML5` | `CSS3` | `JavaScript` | `Bootstrap 5` | `Bootstrap Icons` | `Normalize.css` | `Google Fonts` | `Git` | `GitHub Pages`
+`HTML5` | `CSS3` | `JavaScript` | `Bootstrap 5` | `Bootstrap Icons` | `Normalize.css`
 
 ## Project Structure
 ```text
