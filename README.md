@@ -32,11 +32,10 @@ dev-bravo/
 ├── pages/
 │   ├── signin.html
 │   └── add-chunk.html
-├── css/
-│   └── styles.css
-├── js/
+├── styles/
+│   └── style.css
+├── scripts/
 │   └── app.js
-├── img/
 └── README.md
 ```
 ## Validation + Accessibility
