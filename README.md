@@ -15,7 +15,7 @@
 ## Narrative
 International students often hear natural, useful English phrases in class or conversations, but easily forget them if they aren't written down immediately. **ChunkMate** is a web app designed to solve this problem by providing a quick, accessible interface to log new English "chunks", their meanings, and a status checkbox (memorized/learning). 
 
-The current version (`dev|bravo`) establishes the front-end interface, including a card layout to display the chunks, a form to add new phrases, and filter controls. Future versions will store this data persistently (using localStorage or a database) and implement real search/filter functionality.
+The current version dev-bravo establishes the front-end interface, including a card layout to display the chunks, a form to add new phrases, and filter controls. Future versions will store this data persistently (using localStorage or a database) and implement real search/filter functionality.
 
 ## 🧪 Simple Test
 - [ ] 🧪 **TEST:** Can a user visually locate the form to add a new English phrase?
@@ -38,3 +38,15 @@ dev-bravo/
 │   └── app.js
 ├── img/
 └── README.md
+```
+## Validation + Accessibility
+- Checked HTML syntax using W3C Validator.
+- Reviewed color contrast for readability.
+- Added proper IDs and hooks for future JavaScript integration.
+
+## Attribution
+- **Bootstrap Documentation:** Used for card components and grid layout.
+- **Course Repo:** Adapted the initial directory structure from Professor Cumbie's `dom-time` repository.
+- **AI Assistance:** Used AI to brainstorm the 'ChunkMate' app concept, draft the User Story for this README, and generate the initial Bootstrap 5 HTML boilerplate.
+
+
