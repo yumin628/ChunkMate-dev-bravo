@@ -30,8 +30,7 @@ The current version dev-bravo establishes the front-end interface, including a c
 dev-bravo/
 ├── index.html
 ├── pages/
-│   ├── signin.html
-│   └── add-chunk.html
+│   └── signin.html
 ├── styles/
 │   └── style.css
 ├── scripts/
